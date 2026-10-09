@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Virtual environments
+kartease/
+venv/
+.venv/
+
+# Vector database storage
+chroma_db/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing cache
+.pytest_cache/
